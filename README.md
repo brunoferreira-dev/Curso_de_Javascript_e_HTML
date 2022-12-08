@@ -1,10 +1,16 @@
-# Iniciante_em_Programa-o_T4_ONE
+# Curso de Javascript e HTML: pratique lógica com desenhos, animações e um jogo
 
-## Conheça esta Formação!
-Se você não conhece nada de programação e desenvolvimento de software, mas deseja entrar nessa área onde o mercado de trabalho está superaquecido, a formação Iniciante em programação é para você!
+- Faça esse curso de Lógica de programação e:
+- Continue a praticar lógica com JavaScript
+- Use e abuse de funções para facilitar seu trabalho
+- Conheça o Canvas para gerar desenhos e animações
+- Revise conceitos importantes na programação
+- Crie seu primeiro jogo!
 
-Você vai criar suas primeiras páginas web, utilizando HTML, CSS, JS e assim aprender lógica de programação junto com as linguagens de programação mais utilizadas no mundo.
+##Aulas
 
-Se você trabalha em outras áreas como marketing digital, experiência do usuário (UX), design, ou áreas correlatas, essa formação te ajudará a entender melhor como a área de tecnologia funciona e, assim, você consegue se comunicar melhor com a área de desenvolvimento.
-
-Esta formação faz parte do programa ONE, parceria de Alura + Oracle
+1 - Desenhando gráficos com Canvas Ver primeiro vídeo
+2 - Extraindo funções
+3 - Interagindo com o usuário
+4 - Movendo elementos: animações simples
+5 - Nosso primeiro jogo
